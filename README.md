@@ -1,2 +1,3 @@
-# PsychEMA-
-Messing around with EMA for a longitudinal study...
+# PsychEMA
+
+Ecological Momentary Assessment application testing ground for identities with cross compatible web and app support.
